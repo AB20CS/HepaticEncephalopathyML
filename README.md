@@ -8,3 +8,4 @@ Thus far, the Logistic Regression model providing the highest area under the cur
 - `scikit-learn`
 - `pandas`
 - `numpy`
+- `matplotlib`
